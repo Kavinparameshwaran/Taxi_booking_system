@@ -17,9 +17,9 @@ To see the app in action you can follow the instructions below:
 * In your terminal input the following commands to clone the repo ans start the dev-server
 
 ```sh
-$ git clone https://github.com/kavyadharsini/SpotRider_Cabs
+$ git clone https://github.com/Kavinparameshwaran/Taxi_booking_system
 
-$ cd SpotRider_Cabs
+$ cd Taxi_booking_system
 
 # install dependencies
 $ npm install
